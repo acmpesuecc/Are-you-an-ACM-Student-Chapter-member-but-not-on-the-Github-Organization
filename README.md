@@ -7,7 +7,10 @@ If you answered yes to the above question please follow the following steps:
 3. Don't delete anything that already exists
 4. Submit a Pull Request to this repository (If you don't know how to, now is the best time to learn!)
 
-If you are already a part of the organization but still want to follow the steps, PR away! :)
+If you are already a part of the organization but still want to follow the steps, PR away! :)  
+
+Vamsi Koneti
+https://github.com/TheVamster
 
 _P.S. This file is written in Markdown format so if you want to create a new line, add **2 spaces** to the end of the previous line._
 
