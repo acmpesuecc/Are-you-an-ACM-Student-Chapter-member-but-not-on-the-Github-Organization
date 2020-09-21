@@ -13,4 +13,5 @@ _P.S. This file is written in Markdown format so if you want to create a new lin
 
 ## Members
 Srujan Deshpande - srujandeshpande  
-Siva Surya Babu - siv12345
+Siva Surya Babu - siv12345  
+Rishab Kashyap -Rishabkashyap14
