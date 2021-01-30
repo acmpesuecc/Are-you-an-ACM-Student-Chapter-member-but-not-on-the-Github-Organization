@@ -16,7 +16,7 @@ _P.S. This file is written in Markdown format so if you want to create a new lin
 ## Members
 Srujan Deshpande - srujandeshpande  
 Siva Surya Babu - siv12345  
-Rishab Kashyap -Rishabkashyap14  
+Rishab Kashyap - Rishabkashyap14  
 Vihar Devalla - vihardevalla    
 Arpit Nigam - arpitnigam45    
 Tejus D - Tejus-Dinesh  
@@ -27,4 +27,4 @@ Avinash V K - avinash-vk
 Varun Seshu - Varun487  
 Pradish Kapur - pk-95  
 Noel Saju - Noel-jediknight
-Navin Shrinivas - navin_shrinivas (staight cat)
+Navin Shrinivas - navin_shrinivas
